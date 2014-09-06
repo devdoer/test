@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/test_lock.dir/test_lock.cpp.o  -o test_lock  -lboost_thread-mt -lboost_system 
